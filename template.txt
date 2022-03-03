@@ -1,0 +1,11 @@
+Hello <Title> <Name>,
+
+This is an email regarding the replacement of your computer CT <CTNumber> which I show as located in <Building>. Please email us at your earliest convenience. 
+
+Thank you, 
+<Writer>
+
+
+
+
+
